@@ -7,3 +7,10 @@ Projecte de PROP
 ## Instruccions d'execució
 
 java -jar SistemaRecomanador.jar
+
+## Membres
+
+Roberto Amat Alins
+Marc Camarillas Parés
+Oriol Cuéllar Barrionuevo
+Jordi Olmo Ricis
