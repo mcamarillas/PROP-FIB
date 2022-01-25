@@ -6,4 +6,4 @@ Projecte de PROP
 
 ## Instruccions d'execució
 
-java -jar SistemaRecomendador.jar
+java -jar SistemaRecomanador.jar
