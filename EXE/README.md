@@ -1,3 +1,3 @@
 ## EXE
 
-Jocs de probes i clases del projecte
+Jocs de probes, clases del projecte i conjunts de dades
