@@ -1,0 +1,9 @@
+/Docs:
+    Documentacion del proyecto.
+/FONTS:
+    Codigos del proyecto.
+/EXE:
+       Ejecutables del proyecto.
+dades:
+    Informacion de los autores.
+MakeFile
