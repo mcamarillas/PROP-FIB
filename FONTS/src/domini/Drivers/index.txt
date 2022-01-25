@@ -1,0 +1,16 @@
+DriverAtribute.java
+DriverRanged_Atribute.java
+DriverConjuntItems.java
+DriverKND.java
+DriverTipusItem.java
+DriverItem.java
+DriverRateRecomendation.java
+DriverLectorCSV2.java
+DriverValoratedItem.java
+DriverSlopeOne.java
+DriverCluster.java
+DriverMyPair.java
+DriverKmeans.java
+UserTest.java
+Suite_Distance_Item.java
+Suite_Resto_Item.java

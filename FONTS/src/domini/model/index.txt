@@ -1,0 +1,15 @@
+Atribute.java
+Ranged_Atribute.java
+ConjuntItems.java
+K_Nearest_Neightbour.java
+Tipus_Item.java
+Item.java
+RateRecomendation.java
+LectorCSV2.java
+Main.java
+valoratedItem.java
+User.java
+SlopeOne.java
+Cluster.java
+myPair.java
+Kmeans.java
