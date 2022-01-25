@@ -1,0 +1,36 @@
+========================================
+Objeto de prueba: Algoritmo SlopeOne
+========================================
+Primero de todo hay que leer un conjunto de usuarios con los items que han valorado y el cluster al que pertenecen
+Para la ejecucion del algoritmo se debe pasar por parametro:
+	- Un usuario que pertenezca al conjunto de usuarios
+	- Un mapa de items valorados y quien los ha valorado no vacio
+	- El valor maximo que pueden tener las valoraciones
+Para probar el algoritmo hemos necesitado utilizar las clases "Item", "valoratedItem" y "User", testeadas anteriormente.
+La misión de este driver es ver que es lo que ocurre si no respetamos los casos de uso y testear si falla
+
+
+====================
+Ficheros necesarios
+====================
+Para poder ejecutar el Driver es necesario cargar un fichero, por defecto tenemos un fichero SlopeOneTest.csv en la carpeta de Entradas_CSV
+Este fichero debe tener el id del usuario, el id del item, la valorcion que el usuario le ha puesto a este item y el cluster al que pertenece el usuario. Todo separado por comas.
+
+i.e: 1234, 23, 5.0, 2, 234, 34, 5.0, 1
+     En este caso se leeria:
+        - un usuario con el id 1234, el cual pertenece al cluster 2 y ha valorado el item 23 con un 5.0 
+        - un usuario con el id 234, el cual pertenece al cluster 1 y ha valorado el item 234 con un 5.0 
+        
+====================
+Manual de Uso
+====================
+
+- Compilar con el comando make
+- Ejecutar el test con el comando make DriverSlopeOne
+
+- El programa te pedira que elijas entre cuatro funcionalidades:
+	- Cargar fichero de datos a eleccion
+	- Cargar fichero de datos default
+	- Probar la funcionalidad getPrediccions
+	- Probar la funcionalidad printResults
+	

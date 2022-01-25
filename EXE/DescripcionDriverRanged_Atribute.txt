@@ -1,0 +1,24 @@
+========================================
+Objeto de prueba: Ranged_Atribute
+========================================
+
+Representa un atributo del conjunto de atributos de un tipocon atributo
+
+
+====================
+Ficheros necesarios
+====================
+
+Para ejecutar este Test no hace falta pasar ningun fichero externo
+
+====================
+Operativa
+====================
+
+- Compilar con el comando make
+- Ejecutar el test con el comando make DriverRanged_Atribute
+
+Al ejecutar el programa aparecerá un menú donde cada opción tiene un número,
+únicamente hay que seleccionar la opción deseada e introducir los parámetros que se requieran.
+
+

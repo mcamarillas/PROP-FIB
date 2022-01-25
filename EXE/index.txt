@@ -1,0 +1,16 @@
+Entradas_CSV
+FONTS
+DescripcionDriverCluster.txt
+DescripcionDriverKmeans.txt
+DescripcionDriverLectorCSV2.txt
+DescripcionDriverMyPair.txt
+DescripcionDriverRateRacomendation.txt
+DescripcionDriverSlopeOne.txt
+DescripcionDriverValoratedItem.txt
+DescripcionMain.txt
+DescripcionUserTest.txt
+DescripcionDriverKND.txt
+DescripcionDriverRangedAtribute.txt
+DescripcionDriverItem.txt
+DescricionDriverConjuntItems.txt
+DescripcionDriverTipusItem.txt

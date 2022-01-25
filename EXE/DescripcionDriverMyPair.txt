@@ -1,0 +1,24 @@
+========================================
+Objeto de prueba: myPair
+========================================
+
+La clase myPair representa un par itemID y valoration. Las pruebas consisitiran en crear un par y comprobar
+mediante las funciones propias de la clase que este se ha creado correctamente.
+
+
+====================
+Ficheros necesarios
+====================
+
+Para ejecutar este Test no hace falta pasar ningun fichero externo
+
+====================
+Manual de Uso
+====================
+
+- Compilar con el comando make
+- Ejecutar el test con el comando make DriverMyPair
+
+Al ejecutar el programa aparecera un menu donde cada opcion tiene un numero,
+unicamente hay que seleccionar la opcion deseada e introducir los parametros que se requieran.
+

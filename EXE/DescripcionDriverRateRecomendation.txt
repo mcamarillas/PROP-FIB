@@ -1,0 +1,39 @@
+====================
+Objecto de la prueba:
+====================
+        Comprobar que funciona correctamente el algoritmo Rate Recomendation
+
+====================
+Clases integradas en la prueba:
+====================
+        RateRecomendation.java
+
+====================
+Drivers para esta prueba:
+====================
+        DriverRateRecomendation
+
+====================
+Ficheros de datos necesarios:
+====================
+        - rates.db.csv o cualquier otro fichero con valoraciones. (Valoraciones de un usuarios a items)
+
+====================
+Valores estudiados:
+====================
+        Se trabaja con valores leidos de ficheros CSV que el
+        usuario previamente ha introducido el path hasta ellos
+
+====================
+Operativa:
+====================
+        Al ejecutar el programa aparecera un menu donde cada opcion tiene un numero,
+        unicamente hay que seleccionar la opcion deseada e introducir los parametros que se requieran.
+
+====================
+Manual de Uso
+====================
+
+- Compilar con el comando make
+- Ejecutar el test con el comando make DriverRateRecomendation
+

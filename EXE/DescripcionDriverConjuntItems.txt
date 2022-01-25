@@ -1,0 +1,28 @@
+========================================
+Objeto de prueba: ConjuntItems
+========================================
+Primero de todo hay que leer un conjunto de usuarios 
+Para hacerlo hace falta leer de un Fichero los Item
+Necesita la clase Items ya probada.
+La mision de este driver es comprobar el correcto funcionamiento y almacenamiento de esta estructura de datos
+
+
+====================
+Ficheros necesarios
+====================
+
+Para poder ejecutar el Driver es necesario cargar dos ficheros, por defecto tenemos un fichero para la prueba items.csv en la carpeta de Entradas_CSV
+El formato de los ficheros debe ser como el de los ejemplos aunque puede variar valores y numero de columnas/filas
+        
+====================
+Manual de Uso
+====================
+
+- Compilar con el comando make
+- Ejecutar el test con el comando make DriverConjuntItems
+
+- El programa te pedirá que elijas entre las funcionalidades:
+	
+   Despues en todas menos la de la constructora tendras que poner los ficheros como indica el programa los de los ejemplos son:
+   ./EXE/Entradas_CSV/items.csv
+	

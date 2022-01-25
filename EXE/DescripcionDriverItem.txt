@@ -1,0 +1,27 @@
+========================================
+Objeto de prueba: Item
+======================================
+
+Este se trata de un test unitario hecho con JUnit.
+Su funcion principal es probar que las funciones dan el valor que se espera.
+
+Para probar esta clase hemos necesitado utilizar la clase "TipusItem" y "Atribute" testeada anteriormente.
+Este es una Suite de otros dos clases de prueba de junit
+
+====================
+Ficheros necesarios
+====================
+
+Para ejecutar este Test no hace falta pasar ningun fichero externo
+Unicamente las classes Suite_Distance_item.class y Suite_Resto_Item.class
+        
+====================
+Manual de Uso
+====================
+- Hacer export del classpath donde se encuentran las librerias hamcrest-core-1.3.jar y junit-4.12.jar de JUnit
+- Compilar con el comando make DriverItem.class make Suite_Distance_item.class make Suite_Resto_Item.class
+- Ejecutar el test con el comando make DriverItem
+- (A nsotros nos ha dado error al ejecutar el test, no sabemos si es debido a que el .jar de JUnit nos falla,
+   pero desde un IDE hemos conseguido ejecutarlo y hemos comprobado que pasa todos los test)
+   
+	

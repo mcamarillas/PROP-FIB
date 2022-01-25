@@ -1,0 +1,161 @@
+========================================
+Objeto de prueba: Atribute
+========================================
+
+Representa un atributo del conjunto de atributos de un tipo.
+
+
+====================
+Ficheros necesarios
+====================
+
+Para ejecutar este Test no hace falta pasar ningun fichero externo
+
+====================
+Operativa
+====================
+
+- Compilar con el comando make
+- Ejecutar el test con el comando make DriverAtribute
+
+Al ejecutar el programa aparecerá un menú donde cada opción tiene un número,
+únicamente hay que seleccionar la opción deseada e introducir los parámetros que se requieran.
+
+====================
+Juego de pruebas
+====================
+
+entrada:
+
+1
+Color String
+
+salida:
+Color String true
+
+basicamente si la entrada es X X la alida ha de ser X X true
+
+entrada:
+
+2
+Tamaño Rang false
+
+salida:
+Tamaño String false
+
+basicamente si la entrada es X X Y la alida ha de ser X X Y
+
+entrada:
+3
+Tamaño Rang 
+
+salida:
+-1.0
+
+basicamente la salida siempre es -1.0
+
+entrada:
+4
+Tamaño Rang 
+
+salida:
+-1.0
+
+basicamente la salida siempre es -1.0
+
+entrada:
+5
+Color String 
+
+salida:
+Color
+
+basicamente si la entrada es X Y la salida siempre es X
+
+entrada:
+6
+Color String 
+
+salida:
+String
+
+basicamente si la entrada es X Y la salida siempre es Y
+
+entrada:
+
+7
+Tamaño Rang false
+
+salida:
+Tamaño String false
+
+basicamente si la entrada es X X Y la salida ha de ser Y
+
+entrada:
+
+7
+Tamaño Rang false
+
+salida:
+Tamaño String false
+
+basicamente si la entrada es X X Y la salida ha de ser Y
+
+entrada:
+8
+Tamaño Rang  6,2 5,9
+
+4,59
+
+salida:
+Tamaño String -1.0
+-1.0
+
+basicamente si la entrada es X X Y Z la salida ha de ser XX -1.0 i -1.0
+
+entrada:
+9
+Tamaño Rang  6,2 5,9
+
+4,59
+
+salida:
+Tamaño String -1.0
+-1.0
+
+basicamente si la entrada es X X Y Z la salida ha de ser XX -1.0 i -1.0 igual que el anteror
+
+entrada:
+
+10
+Forma String
+BOOl
+
+
+salida:
+Forma String
+BOOl
+
+basicamente si la entrada es X Y sa salida es lo mismo y luego introduces Z para comprobar que da Z
+
+11
+Forma String
+Color
+
+
+salida:
+Forma String
+Color
+
+basicamente si la entrada es X Y sa salida es lo mismo y luego introduces Z para comprobar que da Z (ahora ustituye a X)
+
+12
+Forma String True
+False
+
+
+salida:
+Forma String True
+False
+
+basicamente si la entrada es X Y Z sa salida es lo mismo y luego introduces una nueva Z para comprobar que da la nueva Z 

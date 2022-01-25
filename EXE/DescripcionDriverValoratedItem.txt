@@ -1,0 +1,22 @@
+========================================
+Objeto de prueba: Items valorados
+========================================
+
+Para probar esta clase hemos necesitado utilizar la clase "Item" testeada anteriormente.
+La mision de este driver comprobar que guarda y devuelve bien un item y su valoracion.
+
+====================
+Ficheros necesarios
+====================
+
+No hace falta cargar ningun fichero para probar funcionalidades
+
+====================
+Manual de Uso
+====================
+
+- Compilar con el comando make
+- Ejecutar el test con el comando make DriverValoratedItem
+
+- El programa te pedira que pases los parametros por pantalla y luego te mostrara las funcionalidades getItem y getvaloracion.
+	
