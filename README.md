@@ -4,4 +4,3 @@
 
 Projecte de PROP
 
-## Nota: 7.1
